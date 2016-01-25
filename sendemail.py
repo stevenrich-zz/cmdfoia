@@ -7,6 +7,8 @@ import csv
 import getpass
 import datetime
 
+#I know it doesn't work just yet. I'm working backwards
+
 recipient = raw_input("Email address you want to send your FOIA to: ")
 user = raw_input("Email username: ")
 password = getpass.getpass()
