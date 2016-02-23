@@ -5,6 +5,7 @@ Capabilites will include:
 <ul>
 <li>Custom letterhead</li>
 <li>FOIAs attached as PDFs</li>
-<li>Remembering inputs from FOIA to FOIA</li>
+<li>Remembering inputs from FOIAs</li>
 <li>Customizable email</li>
+<li>Applicable state law attached</li>
 </ul>
